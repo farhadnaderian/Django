@@ -1,3 +1,3 @@
 Dockerizing Django
 
-Note: Don't forget to change ALLOWED_HOSTS line in setting file.
+Note: Don't forget to change ALLOWED_HOSTS line in the related setting file.
